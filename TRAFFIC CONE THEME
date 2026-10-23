@@ -1,0 +1,319 @@
+{
+  "name": "Traffic Cone",
+  "description": "a simple white and orange theme",
+  "version": "1",
+  "authors": [
+    {
+      "name": "trifcxne"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_ACCENT": [
+      "#FF8648"
+    ],
+    "BACKGROUND_BRAND": [
+      "#FF8648"
+    ],
+    "MENTION_FOREGROUND": [
+      "#FF8648"
+    ],
+    "TEXT_LINK": [
+      "#FF8648"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#FF8648"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#FF6A00"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#000000"
+    ],
+    "CHANNEL_ICON": [
+      "#000000"
+    ],
+    "HEADER_SECONDARY": [
+      "#000000"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#000000"
+    ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#000000"
+    ],
+    "TEXT_MUTED": [
+      "#000000"
+    ],
+    "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+      "#FBF7FF"
+    ],
+    "CHAT_BACKGROUND": [
+      "#FBF7FF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#FBF7FF"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#FBF7FF"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#FBF7FF"
+    ],
+    "HOME_BACKGROUND": [
+      "#FBF7FF"
+    ],
+    "STATUS_DANGER_TEXT": [
+      "#FBF7FF"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#F2E9F8"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#F2E9F8"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#F2E9F8"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#F2E9F8"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#F2E9F8"
+    ],
+    "BACKGROUND_SURFACE_RAISED": [
+      "#F2E9F8"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#F2E9F8"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#F2E9F8"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#F2E9F8"
+    ],
+    "BG_SURFACE_OVERLAY": [
+      "#F2E9F8"
+    ],
+    "BG_SURFACE_OVERLAY_TMP": [
+      "#F2E9F8"
+    ],
+    "BG_SURFACE_RAISED": [
+      "#F2E9F8"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#F2E9F8"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#F2E9F8"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#F2E9F8"
+    ],
+    "EMBED_BACKGROUND": [
+      "#F2E9F8"
+    ],
+    "INPUT_BACKGROUND_DEFAULT": [
+      "#F2E9F8"
+    ],
+    "KEYBOARD": [
+      "#F2E9F8"
+    ],
+    "PANEL_BG": [
+      "#F2E9F8"
+    ],
+    "POLLS_NORMAL_FILL_HOVER": [
+      "#F2E9F8"
+    ],
+    "POLLS_NORMAL_IMAGE_BACKGROUND": [
+      "#F2E9F8"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#F2E9F8"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
+      "#F2E9F8"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#F2E9F8"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#F2E9F8"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#F2E9F8"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#F2E9F8"
+    ],
+    "HEADER_PRIMARY": [
+      "#000000"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#000000"
+    ],
+    "INTERACTIVE_TEXT_DEFAULT": [
+      "#000000"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#000000"
+    ],
+    "TEXT_DEFAULT": [
+      "#000000"
+    ],
+    "TEXT_NORMAL": [
+      "#000000"
+    ],
+    "TEXT_PRIMARY": [
+      "#000000"
+    ],
+    "TEXT_STRONG": [
+      "#000000"
+    ],
+    "ANDROID_RIPPLE": [
+      "#5b2a82"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "rgba(114,0,0,0.1)"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "rgba(170,0,0,0.1)"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#28152F1A"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#28152F1A"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#28152F1A"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#28152F1A"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#28152F1A"
+    ],
+    "BACKGROUND_MODIFIER_ACCEPT": [
+      "#43b58133"
+    ],
+    "BACKGROUND_MODIFIER_ACCEPT_HOVER": [
+      "#43b5814d"
+    ],
+    "BACKGROUND_MOD_MUTED": [
+      "#121214"
+    ],
+    "BG_BACKDROP": [
+      "#000000b2"
+    ],
+    "BORDER_FAINT": [
+      "#28152F1A"
+    ],
+    "BORDER_SUBTLE": [
+      "#28152F1A"
+    ],
+    "BORDER_STRONG": [
+      "#28152F1A"
+    ],
+    "REDESIGN_BUTTON_DANGER_BACKGROUND": [
+      "#7f007b"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#28152F1A"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#000000"
+    ],
+    "STATUS_DANGER": [
+      "#7f007b"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#7f007b"
+    ],
+    "TEXT_SECONDARY": [
+      "#7B1FA2"
+    ],
+    "BG_MOD_FAINT": [
+      "#28152F1A"
+    ]
+  },
+  "rawColors": {
+    "BRAND_200": "#FF8648",
+    "BRAND_260": "#FF8648",
+    "BRAND_300": "#FF8648",
+    "BRAND_330": "#FF8648",
+    "BRAND_345": "#FF8648",
+    "BRAND_360": "#FF8648",
+    "BRAND_400": "#FF8648",
+    "BRAND_430": "#FF8648",
+    "BRAND_460": "#FF8648",
+    "BRAND_500": "#FF8648",
+    "BRAND_530": "#FF8648",
+    "BRAND_600": "#FF8648",
+    "BRAND_630": "#FF8648",
+    "BRAND_660": "#FF8648",
+    "BRAND_700": "#FF8648",
+    "PLUM_3": "#FF8648",
+    "PLUM_15": "#FF8648",
+    "PRIMARY_300": "#FF8648",
+    "PRIMARY_360": "#FF8648",
+    "PRIMARY_500": "#FF8648",
+    "PRIMARY_530": "#FF8648",
+    "BRAND_560": "#FF6A00",
+    "PRIMARY_400": "#FF6A00",
+    "PLUM_9": "#000000",
+    "PLUM_10": "#000000",
+    "PLUM_11": "#000000",
+    "PLUM_13": "#000000",
+    "PRIMARY_730": "#000000",
+    "ROLE_DEFAULT": "#000000",
+    "WHITE_630": "#000000",
+    "PLUM_17": "#FBF7FF",
+    "PLUM_20": "#FBF7FF",
+    "PLUM_24": "#FBF7FF",
+    "PLUM_25": "#FBF7FF",
+    "PRIMARY_600": "#FBF7FF",
+    "PRIMARY_DARK_700": "#FBF7FF",
+    "PRIMARY_DARK_800": "#FBF7FF",
+    "PLUM_16": "#F2E9F8",
+    "PLUM_19": "#F2E9F8",
+    "PLUM_21": "#F2E9F8",
+    "PLUM_22": "#F2E9F8",
+    "PRIMARY_460": "#F2E9F8",
+    "PRIMARY_630": "#F2E9F8",
+    "PRIMARY_660": "#F2E9F8",
+    "PRIMARY_700": "#F2E9F8",
+    "PRIMARY_DARK_600": "#F2E9F8",
+    "PRIMARY_DARK_630": "#F2E9F8",
+    "PRIMARY_DARK_660": "#F2E9F8",
+    "BRAND_730": "#000000",
+    "PLUM_1": "#000000",
+    "PLUM_4": "#000000",
+    "PLUM_6": "#000000",
+    "PRIMARY_100": "#000000",
+    "PRIMARY_200": "#000000",
+    "PRIMARY_330": "#000000",
+    "PRIMARY_DARK_200": "#000000",
+    "WHITE_500": "#000000",
+    "BLACK_500": "#000000b2",
+    "PLUM_18": "#E9DFF0",
+    "PRIMARY_645": "#E9DFF0",
+    "PRIMARY_800": "#E9DFF0",
+    "GREEN_500": "#43b581",
+    "RED_500": "#7f007b",
+    "ORANGE_500": "#faa61a",
+    "YELLOW_500": "#faa61a"
+  },
+  "plus": {
+    "version": 0,
+    "customOverlays": true,
+    "iconpack": "iconsaxbulk"
+  },
+  "spec": 2,
+  "background": {
+    "url": "https://previews.123rf.com/images/grandeduc/grandeduc1509/grandeduc150900315/44697152-traffic-cones-background-3d-render-of-lots-of-traffic-cones.jpg",
+    "alpha": 0.65,
+    "size": "cover",
+    "position": "center"
+  }
+}
